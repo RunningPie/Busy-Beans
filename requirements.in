@@ -1,0 +1,4 @@
+-r airflow/requirements.txt
+-r dashboard/requirements.txt
+-r scraping/requirements.txt
+-r spark/requirements.txt
